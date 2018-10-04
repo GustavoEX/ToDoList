@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="edit_task_title_hint">Task Title</string>
+    <string name="add_task_title">Title:</string>
+    <string name="add_task_description">Description:</string>
+    <string name="edit_task_description_hint">Task Description</string>
+    <string name="add_task_done">Done:</string>
+    <string name="add_task_add_button">Add Task</string>
+    <string name="delete_button_text">Delete All</string>
+    <string name="title_error">You Must Type the Title before saving</string>
+    <string name="edit_task_btn">Edit Task</string>
+    <string name="task_desc_extra">TaskDesc</string>
+    <string name="task_id_extra">TaskId</string>
+    <string name="task_created_extra">TaskCreated</string>
+    <string name="task_title_extra">TaskTitle</string>
+    <string name="tasks_deleted_wrn">All Tasks Deleted!</string>
+</resources>
